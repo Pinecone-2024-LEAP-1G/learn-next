@@ -1,0 +1,16 @@
+.box {
+  width: 40px;
+  height: 40px;
+  border: 1px solid red;
+  padding: 4px;
+  margin: 4px;
+}
+
+.greenBox {
+  width: 40px;
+  height: 40px;
+  border: 1px solid red;
+  padding: 4px;
+  margin: 4px;
+  background-color: green;
+}
