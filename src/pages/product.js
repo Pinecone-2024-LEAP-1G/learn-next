@@ -146,7 +146,7 @@ const Page = () => {
   });
 
   return (
-    <div>
+    <div className="bg-red-100">
       {employees.map((employee, index) => (
         <div
           style={{ display: "flex", flexDirection: "row", gap: "20px" }}
